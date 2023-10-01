@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913325289753",
+    "project_id": "fvivfi",
+    "storage_bucket": "fvivfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913325289753:android:c53f61996a816af87f1588",
+        "android_client_info": {
+          "package_name": "punto.italiano.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBv9kbP_gKQyc-WBnZoDUd_AjeBe_oPaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
